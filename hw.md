@@ -116,5 +116,6 @@ You must create and implement the following functions:
 ## 🚀 Bonus (Optional)
 
 * Add input validation (only allow numbers 1–4)
+* if the user was wrong, tell him what was the correct city (hint: use split)
 
 **Submission email:** [pythonai211225+python15func@gmail.com](mailto:pythonai211225+python15func@gmail.com)
