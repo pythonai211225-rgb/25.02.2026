@@ -53,10 +53,10 @@ def get_account_number_from_user():
     account_number = int(input('whats the account number?'))
     return account_number
 
-def check_if_valid(user_account_number, accounts):
+def check_if_valid(user_account_number: int, balance: list):
     # account      0     1        2     3   4    5
-    # accounts = [300, 4000, 100_000, 5000, 0, 900]
-    if 0 <= user_account_number < len(accounts):
+    # balance = [300, 4000, 100_000, 5000, 0, 900]
+    if 0 <= user_account_number < len(balance):
         valid = True
     else:
         valid = False
