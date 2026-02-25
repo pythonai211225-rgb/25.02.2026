@@ -76,7 +76,7 @@ while True:
 
 ```
 
-## 🧠 What You Must Implement
+## 🧠 What You Should Implement
 
 You must create and implement the following functions:
 
