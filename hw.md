@@ -72,9 +72,6 @@ while True:
         print('YOU LOST !!!')
         break
 
-    if check_if_miss_is_3(miss):
-        print('YOU LOST !!!')
-        break
 ```
 
 ## 🧠 What You Must Implement
