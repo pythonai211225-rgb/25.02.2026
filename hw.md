@@ -2,6 +2,8 @@
 
 ## Question – Build the Game Flow Using Functions
 
+<img src="guess_capital.png" />
+
 You are given the following data:
 
 ```python
